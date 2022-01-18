@@ -12,5 +12,5 @@
 - 📙 I'm looking forward to be more active on Github!
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chilipolygon&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilipolygon&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)(https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=chilipolygon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
