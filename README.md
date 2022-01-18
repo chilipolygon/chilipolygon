@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m familiar with Python, JavaScript
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about 
 - 📫 How to reach me: 
