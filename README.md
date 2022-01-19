@@ -8,7 +8,7 @@
 - ↳ [Discord: chili#9999](https://stackedit.io/https://discordapp.com/users/407759734305849345)
 - ↳ [Twitter: @chili_polygon](https://twitter.com/chili_polygon)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I spend half of my time looking for new songs/
+- ⚡ Fun fact: I spend half of my time looking for new songs
 - 📙 I'm looking forward to be more active on Github!
 
 
