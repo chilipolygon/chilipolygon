@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [Amazon Module](https://github.com/chilipolygon/Amazon-Requests-Module)
 - 🌱 I’m familiar with Python, JavaScript
 - 👯 I’m looking to collaborate on Discord
-- 💬 Ask me about 
+- 💬 Ask me about web automation
 - 📫 How to reach me: 
 - ↳ [Discord: chili#9999](https://stackedit.io/https://discordapp.com/users/407759734305849345)
 - ↳ [Twitter: @chili_polygon](https://twitter.com/chili_polygon)
