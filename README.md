@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Amazon Module](https://github.com/chilipolygon/Amazon-Requests-Module)
-- 🌱 I’m familiar with Python, JavaScript
+- 🌱 I’m familiar with Python, JavaScript, Data Structure
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about web automation
 - 📫 How to reach me: 
