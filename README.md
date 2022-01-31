@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m familiar with Python, JavaScript, Data Structure
+- 📖 I'm learning Golang 
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about web automation
 - 📫 How to reach me: 
