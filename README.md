@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about web automation
 - 📫 How to reach me: 
-- ↳ [Discord: chili#9999](https://stackedit.io/https://discordapp.com/users/407759734305849345)
-- ↳ [Twitter: @chili_polygon](https://twitter.com/chili_polygon)
+- ↳ [Discord: chili#7777](https://stackedit.io/https://discordapp.com/users/407759734305849345)
+- ↳ [Twitter: @777_chili](https://twitter.com/777_chili)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spend half of my time looking for new songs
 - 📙 I'm looking forward to be more active on Github!
